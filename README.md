@@ -37,13 +37,13 @@ A comprehensive restaurant management system built with C# .NET and SQL Server.
 📁 **Source Code:** [GitHub Repository](https://github.com/Thabza20/DelosApp)
 
 ---
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=NextGenBK&theme=radical&no-frame=true&row=1)
 ## 📊 GitHub Stats
 
 <div align="center">
   
 ![Bayanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NextGenBK&show_icons=true&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=NextGenBK&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NextGenBK&layout=compact&theme=radical)
 
 </div>
