@@ -33,7 +33,7 @@ A comprehensive restaurant management system built with C# .NET and SQL Server.
 **Technologies:** C# .NET, SQL Server, ASP.NET Core, Entity Framework, Windows Forms  
 **Features:** Table reservations, menu management, order processing, automated billing
 
-🔗 **Live Demo:** [View Application](https://2025grp17s2-dnaefza4f0dycddn.southafricanorth-01.azurewebsites.net/)  
+ 
 📁 **Source Code:** [GitHub Repository](https://github.com/Thabza20/DelosApp)
 
 ---
